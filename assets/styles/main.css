@@ -71,3 +71,19 @@ table {
 	text-align: center;
 	font-size: 17px;
 }
+
+/* video */
+#video {
+	padding: 2px;
+	text-align: center;
+}
+
+/* sidebar */
+#sidebar {
+
+}
+
+#sidebar img {
+	display: block;
+	padding: 5px;
+}
